@@ -1,0 +1,25 @@
+{
+  "name": "react-native-recharts",
+  "version": "0.0.1",
+  "description": "React Native adoption for Recharts library",
+  "main": "src/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonKalinin/react-native-recharts.git"
+  },
+  "peerDependencies": {
+    "react": ">=15.2.0",
+    "react-native": ">=0.44.0"
+  },
+  "files": [
+    "package.json",
+    "readme.md",
+    "src"
+  ],
+  "author": "Anton Kalinin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonKalinin/react-native-recharts/issues"
+  },
+  "homepage": "https://github.com/antonKalinin/react-native-recharts#readme"
+}
